@@ -2,7 +2,8 @@
  Assortment of small pet-projects I have made to learn Python.  
 _Justin Ziegler_ 
 
-##Contents
+## Contents
+
 ### Rental Cash Flow Analysis
 A small script that takes in basic financial data from a user regarding 
 the purchase and rental of a residental property. It returns simple return on investment metrics
